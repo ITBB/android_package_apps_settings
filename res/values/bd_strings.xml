@@ -1,8 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
 
+    <string name="general_string">General</string>
     <!-- About phone screen, build date of ROM -->
     <string name="build_date">BuckeyeDroid build date</string>
     <string name="build_date_default">2014-01-01-0000</string>
-</resources>
 
+    <!-- BUILD TWEAKS -->
+    <string name="buckeyedroid_settings_title">BuckeyeDroid</string>
+    <!-- System settings -->
+    <string name="system_settings_screen_title">System settings</string>
+    <!-- Advanced reboot options -->
+    <string name="advanced_reboot_title">Advanced reboot</string>
+    <string name="advanced_reboot_summary">When unlocked, include options in the power menu for rebooting into recovery, bootloader or performing a soft reboot</string>
+
+</resources>
