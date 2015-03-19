@@ -8,4 +8,4 @@
     android:key="system_settings_general_category"
     android:title="@string/system_settings_screen_title" />
 
-</PreferenceScreen
+</PreferenceScreen>

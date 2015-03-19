@@ -206,6 +206,7 @@
 		android:id="@+id/buckeydroid_settings"
 		android:title="@string/buckeyedroid_settings_title"
 		android:fragment="com.android.settings.buckeyedroid.BuckeyeDroidSettings"
+                />
 
         <!-- Date & Time -->
         <dashboard-tile
